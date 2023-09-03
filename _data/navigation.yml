@@ -1,12 +1,24 @@
 # main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://leonardosetti.github.io/
-  - title: "About"
-    url: https://lenardosetti.github.io/about/
+# main:
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+ main:
+  - title: "About me"
+    url: /about/
   - title: "Posts"
-    url: /year/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+    url: /years/
+  - title: "Projetos"
+    url: /projetos/
+  - title: "Tags"
+    url: /tags/
+  - title: "Artigos"
+    url: /artigos/
